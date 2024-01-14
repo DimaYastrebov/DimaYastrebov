@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm DimaYastrebov! 👋🏻
 
-<!--
-**DimaYastrebovYT/DimaYastrebovYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dima, and I'm a web developer from Ukraine.
 
-Here are some ideas to get you started:
+**Programming Languages:**
+- JavaScript (JS)
+- Node.js
+- C (Am I just a beginner?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- [WinWebConsole](link_to_project) - A slightly recreated console (cmd) from Windows 10/11.
+
+For discussions or questions, feel free to reach out to me:
+- Discord: .dmytroyastrubiv
+- Email: [support@dimayastrebov.website](mailto:support@dimayastrebov.website)
