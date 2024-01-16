@@ -3,8 +3,8 @@
 My name is Dima, and I'm a web developer from Ukraine.
 
 **Programming Languages:**
-- JavaScript (JS)
-- Node.js
+- JavaScript (Not bad)
+- Node.js (Am I also a beginner here?)
 - C (Am I just a beginner?)
 
 **Projects:**
