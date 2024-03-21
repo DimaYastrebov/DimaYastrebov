@@ -9,7 +9,7 @@ My name is Dima, and I'm a web developer from Ukraine.
 
 **Projects:**
 - [WinWebConsole](https://github.com/DimaYastrebovYT/WinWebConsole) - A slightly recreated console (cmd) from Windows 10/11.
-- - [WinWebTerminal](https://github.com/DimaYastrebovYT/WinWebTerminal) - Second version of [WinWebConsole](https://github.com/DimaYastrebovYT/WinWebConsole), improved, optimized, advanced.
+- [WinWebTerminal](https://github.com/DimaYastrebovYT/WinWebTerminal) - Second version of [WinWebConsole](https://github.com/DimaYastrebovYT/WinWebConsole), improved, optimized, advanced.
 
 For discussions or questions, feel free to reach out to me:
 - Discord: .dmytroyastrubiv
