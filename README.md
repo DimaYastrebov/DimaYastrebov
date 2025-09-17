@@ -1,6 +1,6 @@
 # Hello, I'm DimaYastrebov! 👋🏻
 
-My name is Dima, and I'm a web developer from Ukraine.
+My name is Dmytro, and I'm a web developer from Ukraine.
 
 **Programming Languages:**
 - Node.js
